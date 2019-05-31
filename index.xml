@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://myra2019.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 May 2019 16:01:38 +0800</lastBuildDate>
+    
+	<atom:link href="https://myra2019.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FE-learning</title>
+      <link>https://myra2019.github.io/post/blog/</link>
+      <pubDate>Fri, 31 May 2019 16:01:38 +0800</pubDate>
+      
+      <guid>https://myra2019.github.io/post/blog/</guid>
+      <description>转载请注明出处: https://github.com/qiu-deqing/FE-learning
+Table of Contents generated with DocToc
+ FE-learning  必备基础技能 基本开发工具 学习方法和学习目标 入门之路 继续提高 一些个人经历 LingyuCoder的学习经历  工具 技能 语言基础 进阶 项目 未来 其他 入门书 一些不错的网站 历程  MrRaindrop的学习经历  缘起 项目，下一个项目 收集癖和知识管理 跟对神 读书 前端的定位 最后  byr论坛yiyizym的建议   FE-learning 结合个人经历总结的前端入门方法，总结从零基础到具备前端基本技能的道路、学习方法、资料。由于能力有限，不能保证面面俱到，只是作为入门参考，面向初学者，让初学者少走弯路。
+互联网的快速发展和激烈竞争，用户体验成为一个重要的关注点，导致专业前端工程师成为热门职业，各大公司对前端工程师的需求量都很大，要求也越来越高，优秀的前端工程师更是稀缺。个人感觉前端入门相对容易，但是也需要系统地认真学习，在打好基础后坚持学习，成为优秀前端工程师也只是时间问题。
+学习任何知识最重要的都是兴趣，如果经过一段时间的学习感觉不喜欢，那可能强迫自己学习是很痛苦的，效果也不会好，毕竟这很可能就是以后很多年生存的技能。不过随着互联网行业的发展，前端必然是Web开发人员需要学习的知识，有时候是没有专业前端工程师一起合作的，所以即使不做专门的前端工程师，掌握基本的前端技能为工作带来方便。
+后期邀请了一些同学分享学习经历。如果有同学愿意分享,欢迎push
+必备基础技能 前端技能汇总这个项目详细记录 了前端工程师牵涉到的各方面知识。在具备基本技能之后可以在里面找到学习 的方向，完善技能和知识面。
+frontend-dev-bookmarks是老外总结的前端开发资源。覆盖面非常广。包括各种知识点、工具、技术，非常全面。
+以下是个人觉得入门阶段应该熟练掌握的基础技能：
+ HTML4，HTML5语法、标签、语义 CSS2.1，CSS3规范，与HTML结合实现各种布局、效果 Ecma-262定义的javascript的语言核心，原生客户端javascript，DOM操作，HTML5新增功能 一个成熟的客户端javascript库，推荐jquery 一门服务器端语言：如果有服务器端开发经验，使用已经会的语言即可，如果没有服务器端开发经验，熟悉Java可以选择Servlet，不熟悉的可以选PHP，能实现简单登陆注册功能就足够支持前端开发了，后续可能需要继续学习，最基本要求是实现简单的功能模拟， HTTP  在掌握以上基础技能之后，工作中遇到需要的技术也能快速学习。
+基本开发工具 恰当的工具能有效提高学习效率，将重点放在知识本身，在出现问题时能快速定位并 解决问题，以下是个人觉得必备的前端开发工具：
+ 文本编辑器：推荐Sublime Text，支持各种插件、主题、设置，使用方便 浏览器：推荐Google Chrome，更新快，对前端各种标准提供了非常好的支持 调试工具：推荐Chrome自带的Chrome develop tools，可以轻松查看DOM结构、样式，通过控制台输出调试信息，调试javascript，查看网络等 辅助工具：PhotoShop编辑图片、取色，fireworks量尺寸，AlloyDesigner对比尺寸，以及前面的到的Chrome develop tools， 翻墙工具：lantern, 壁虎漫步（已被和谐）  学习方法和学习目标 方法：</description>
+    </item>
+    
+  </channel>
+</rss>
